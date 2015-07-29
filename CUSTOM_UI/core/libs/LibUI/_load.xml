@@ -1,0 +1,7 @@
+﻿<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="_Librarian\Librarian.lua"/>
+	<Script file="CallbackHandler-1.0\CallbackHandler-1.0.lua"/>
+	<Script file="LibSharedMedia-3.0\LibSharedMedia-3.0.lua"/>
+	<Include file="_CUSTOM_UI_Lib\_CUSTOM_UI_Lib.xml"/>
+	<Include file="AceVillain\AceVillain.xml"/>
+</Ui>

@@ -1,0 +1,5 @@
+<Bindings>
+  <Binding name="UI_FRAMEDEBUGGER" description="Frame Stack Analyzer" category="ADDONS" runOnUp="false">
+    DebugThisFrame()
+  </Binding>
+</Bindings>

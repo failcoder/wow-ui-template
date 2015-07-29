@@ -1,0 +1,13 @@
+## Interface: 60200
+## Author: You
+## Version: 1.0.0
+## Title: |cffFF9900 CUSTOM_UI |r
+## SavedVariables: CUSTOM_UI_Global, CUSTOM_UI_Errors, CUSTOM_UI_Filters, CUSTOM_UI_Media
+## SavedVariablesPerCharacter: CUSTOM_UI_Private
+## OptionalDeps: LibSharedMedia-3.0
+## X-UI-Name: CUSTOM_UI
+## X-UI-Schema: Core
+## X-License: MIT
+## X-Category: Interface Enhancements
+
+CUSTOM_UI.xml
